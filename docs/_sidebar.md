@@ -9,6 +9,7 @@
   * [指标衍生](pyspark/指标衍生)
   * [缺失处理](pyspark/缺失处理)
   * [PySpark缺失与排序](pyspark/缺失与排序)
+  * [PySpark分解数组到列](pyspark/分解数组到列)
   * [基本统计](pyspark/基本统计)
   * [DataFrame逻辑运算](pyspark/DataFrame逻辑运算)
   * [分桶Bucket](pyspark/Bucket)
@@ -17,9 +18,6 @@
   * [GroupBy](pyspark/GroupBy)
   * [聚合与窗口](pyspark/聚合与窗口)
   * [PySparkWindow](pyspark/Window)
-  
-  * [PySpark分解数组到列](pyspark/分解数组到列)
-  * [PySpark线性回归](pyspark/线性回归)
 * UDF
   * [UDF](pyspark/UDF)
   * [自定义函数](pyspark/自定义函数)
@@ -27,6 +25,7 @@
   * [pyspark-3.0](pyspark/pyspark_3.0)
 * Mlib
   * [PySpark逻辑回归](pyspark/逻辑回归)
+  * [PySpark线性回归](pyspark/线性回归)
 * Graph
 * NLP
   * [SparkNLP](pyspark/SparkNLP)
